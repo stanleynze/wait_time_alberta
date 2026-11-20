@@ -1,0 +1,11 @@
+Year,COVID_Flag,Period,YearKey
+2016,0,Pre-COVID,1
+2017,0,Pre-COVID,2
+2018,0,Pre-COVID,3
+2019,0,Pre-COVID,4
+2020,1,COVID,5
+2021,1,COVID,6
+2022,0,Recovery,7
+2023,0,Recovery,8
+2024,0,Recovery,9
+2025,0,Recovery,10

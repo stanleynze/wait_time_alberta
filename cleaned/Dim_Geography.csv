@@ -1,0 +1,12 @@
+Province,Region,Is_Benchmark,Is_Alberta,GeoKey
+Canada,National,1,0,1
+Alberta,Prairies,0,1,2
+British Columbia,West Coast,0,0,3
+Manitoba,Prairies,0,0,4
+New Brunswick,Atlantic,0,0,5
+Newfoundland and Labrador,Atlantic,0,0,6
+Nova Scotia,Atlantic,0,0,7
+Ontario,Central,0,0,8
+Prince Edward Island,Atlantic,0,0,9
+Quebec,Central,0,0,10
+Saskatchewan,Prairies,0,0,11
